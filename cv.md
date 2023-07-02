@@ -56,9 +56,9 @@ export const fetchWeather = async (city) => {
 
 ## Education
 
-- HTML and CSS in Result School (Vladilen Minin)
-- JavaScript in Hexlet(code-basics.com)/A manual in learn.javascipt.ru/Youtube course(Bogdan Stashchuk)/etc...
-- React in youtube channel(Archakov blog)
+- HTML and CSS in Result School ( _Vladilen Minin_ )
+- JavaScript in Hexlet ( _code-basics.com_ ) / A manual in _learn.javascipt.ru_ / Youtube course ( _Bogdan Stashchuk_ )/etc...
+- React in youtube channel ( _Archakov blog_ )
   - And a bunch of different free marathons and intensives
 
 ## Languages
