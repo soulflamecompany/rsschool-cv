@@ -1,5 +1,7 @@
 ## rsschool-cv
 
+---
+
 # Filipp Kadushkin
 
 ## Contacts:
@@ -63,3 +65,5 @@ export const fetchWeather = async (city) => {
 
 - Russian - Native
 - English - B1
+
+---
