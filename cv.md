@@ -1,8 +1,8 @@
-##rsschool-cv
+## rsschool-cv
 
-#Filipp Kadushkin
+# Filipp Kadushkin
 
-##Contacts:
+## Contacts:
 
 - **Phone**: +7(960)314-55-30
 - **E-mail**: kadushkin.feniks@gmail.com
@@ -10,7 +10,7 @@
 - **GitLab**: https://gitlab.com/soulflamecompany
 - **Telegram**: https://t.me/FenxxOG
 
-##About Me
+## About Me
 
 I’m 31 years old and the last thing I did before I went into the IT world was a chef at a restaurant.
 While teaching frontend for 8 months I learned to work with REACT framework and have already participated in the development of several projects:
@@ -20,7 +20,7 @@ While teaching frontend for 8 months I learned to work with REACT framework and 
 
 My goal is full immersion in _JavaScript_ to allow free study of the framework with libraries and also for easy problem solving on _CodeWars_
 
-##Skills
+## Skills
 
 - HTML
 - CSS/SCSS
@@ -29,7 +29,7 @@ My goal is full immersion in _JavaScript_ to allow free study of the framework w
 - Git
 - Figma
 
-##Code Examples
+## Code Examples
 
 ```javascript
 const API_URL = "https://api.openweathermap.org/data/2.5/";
@@ -52,14 +52,14 @@ export const fetchWeather = async (city) => {
 };
 ```
 
-##Education
+## Education
 
 - HTML and CSS in Result School (Vladilen Minin)
 - JavaScript in Hexlet(code-basics.com)/A manual in learn.javascipt.ru/Youtube course(Bogdan Stashchuk)/etc...
 - React in youtube channel(Archakov blog)
   - And a bunch of different free marathons and intensives
 
-##Languages
+## Languages
 
 - Russian - Native
 - English - B1
