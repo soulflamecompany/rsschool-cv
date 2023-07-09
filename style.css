@@ -4,3 +4,16 @@
   margin: 0;
   list-style-type: none;
 }
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-pic {
+  width: 500px;
+  height: 500px;
+}
